@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lasharne
+- 👋 Hi, I’m Lasharne
 - 👀 I’m interested in building my skills and making new projects 
 - 🌱 I’m currently learning HTML, CSS, JAVA, PYTHON 
 - 💞️ I’m looking to collaborate on anything begginer freiendly :)
