@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lasharne
 - 👀 I’m interested in building my skills and making new projects 
-- 🌱 I’m currently learning HTML, CSS, JAVA, PYTHON 
+- 🌱 I’m currently learning HTML, CSS, JAVA Script, PYTHON 
 - 💞️ I’m looking to collaborate on anything begginer freiendly :)
 - 📫 How to reach me by email lasharnea@hotmail.com
 - 😄 Pronouns: She/her
