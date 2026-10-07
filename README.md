@@ -18,7 +18,7 @@ I'm interested in creating responsive, user-friendly applications and learning h
 
 ## 🌱 Currently Learning
 
--Blockchain
+- Blockchain
 - Python
 - Full Stack Development
 
